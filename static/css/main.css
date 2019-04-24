@@ -1,4 +1,3 @@
-@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /* Reset */
@@ -2150,7 +2149,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Font Awesome 5 Brands;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
